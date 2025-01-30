@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-haldar&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-haldar" /> </p>
 
-- 🔭 I’m currently working on [Spic Macay Clone](https://github.com/Aniket-Haldar/spicmacayclone)
+- 🔭 I’m currently working on [Quiz Website](https://aniket-haldar.github.io/quizapp/)
 
 - 🌱 I’m currently learning **Javascript and C++**
 
